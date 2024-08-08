@@ -34,7 +34,7 @@
     --dark-green: #404d44;
 
     /* Brand experiment */
-    --brand-experiment: var(--bg-4);
+    --brand-experiment: var(--bg-3);
     --brand-experiment-05a: var(--dark-blue);
     --brand-experiment-200: var(--fg);
     --brand-experiment-30a: var(--blue);
@@ -191,7 +191,7 @@
 
     /* Input */
     --input-background: var(--bg-1);
-    --input-placeholder-text: var(--bg-5);
+    --input-placeholder-text: var(--bg-3);
     --deprecated-text-input-border-hover: var(--bg-0);
     --deprecated-text-input-border-disabled: var(--bg-1);
     --deprecated-text-input-prefix: var(--fg);
@@ -199,7 +199,7 @@
     --deprecated-text-input-border: var(--bg-0);
 
     /* Scrollbar */
-    --scrollbar-auto-thumb: var(--bg-4);
+    --scrollbar-auto-thumb: var(--bg-3);
     --scrollbar-auto-scrollbar-color-thumb: var(--bg-3);
     --scrollbar-auto-scrollbar-color-track: var(--bg-3);
     --scrollbar-auto-track: var(--bg-2);
