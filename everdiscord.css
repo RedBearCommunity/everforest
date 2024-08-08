@@ -34,7 +34,7 @@
     --dark-green: #404d44;
 
     /* Brand experiment */
-    --brand-experiment: var(--bg-3);
+    --brand-experiment: var(--bg-4);
     --brand-experiment-05a: var(--dark-blue);
     --brand-experiment-200: var(--fg);
     --brand-experiment-30a: var(--blue);
@@ -181,7 +181,7 @@
 
     /* Channel Text Area */
     --channeltextarea-background: var(--bg-3);
-    --channel-text-area-placeholder: var(--bg-3);
+    --channel-text-area-placeholder: var(--bg-5);
 
     /* Headers */
     --header-primary: var(--fg);
@@ -191,7 +191,7 @@
 
     /* Input */
     --input-background: var(--bg-1);
-    --input-placeholder-text: var(--bg-3);
+    --input-placeholder-text: var(--bg-5);
     --deprecated-text-input-border-hover: var(--bg-0);
     --deprecated-text-input-border-disabled: var(--bg-1);
     --deprecated-text-input-prefix: var(--fg);
@@ -199,9 +199,9 @@
     --deprecated-text-input-border: var(--bg-0);
 
     /* Scrollbar */
-    --scrollbar-auto-thumb: var(--bg-3);
+    --scrollbar-auto-thumb: var(--bg-4);
     --scrollbar-auto-scrollbar-color-thumb: var(--bg-3);
-    --scrollbar-auto-scrollbar-color-track: var(--bg-3);
+    --scrollbar-auto-scrollbar-color-track: var(--bg-4);
     --scrollbar-auto-track: var(--bg-2);
     --scrollbar-thin-thumb: var(--bg-3);
     --scrollbar-thin-track: transparent;
@@ -214,7 +214,7 @@
 
     /* Quick Switcher */
     --deprecated-quickswitcher-input-background: var(--bg-1);
-    --deprecated-quickswitcher-input-placeholder: var(--bg-3);
+    --deprecated-quickswitcher-input-placeholder: var(--bg-5);
 
     /* Control Brand */
     --control-brand-foreground: var(--blue);
@@ -228,7 +228,7 @@
     --spoiler-hidden-background: var(--bg-0);
 
     /* Elevation */
-    --elevation-stroke: 0 0 0 1px var(--bg-3);
+    --elevation-stroke: 0 0 0 1px var(--bg-5);
     --elevation-low: 0 1px 0 var(--bg-2),0 1.5px 0 var(--bg-0),0 2px 0 var(--bg-0);
     --elevation-medium: 0 4px 4px var(--bg-1);
     --elevation-high: 0 8px 16px var(--bg-0);
